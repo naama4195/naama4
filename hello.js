@@ -8,6 +8,6 @@ const hello2=()=>{
 }
 
 const hello3=()=>{
-    console.log("hello3!!!")
+    console.log("hello3")
 }
 
